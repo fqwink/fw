@@ -1,0 +1,53 @@
+@charset "UTF-8";
+/*
+Default color デフォルトカラー
+#00a968 emerald green  エメラルドグリーン
+#3498db Blue Sky  ブルースカイ
+#ecf0f1 white rat ホワイトラット
+#ECEEF1 Silver Tree シルバーツリー
+#40AAEF Summer Sky サマースカイ
+#58BE89 Solitude ソリチュード
+*/
+body {
+margin: 0;
+}
+
+#header {
+background-color: #00a968;
+padding: 12px;
+}
+
+#header > h1 > a {
+color: #ffffff;
+text-decoration: none;
+font-family: serif;
+margin: 0;
+}
+
+#main {
+border: 1px solid #00a968;
+margin: 0 auto;
+padding: 10px;
+width: 90%;
+}
+
+#main > h2 {
+border-left: 5px solid #00a968;
+font-size: 20px;
+padding-left: 20px;
+}
+
+#main > p {
+font-size: 14px;
+margin: 10px 25px;
+}
+
+#footer {
+margin: 10px;
+text-align: center;
+}
+
+#footer > p {
+color: #00a968;
+font-size: 14px;
+}
