@@ -3,9 +3,9 @@
 fｗファイルに関する記載データ
 
 
-###Design is not just what it looks like and feels like. Design is how it works.
+###　Design is not just what it looks like and feels like. Design is how it works.
 Steve Jobs
-###デザインとは、単にどのように見えるか、どのように感じるかということではない。どう機能するかだ。
+###　デザインとは、単にどのように見えるか、どのように感じるかということではない。どう機能するかだ。
 スティーブ・ジョブズ
 
 Name       : Adlaire Specification (Sample Website)
